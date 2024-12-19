@@ -1,4 +1,8 @@
-# 🚀 TMScript (Task Management Script)
+# 🚀 TMScript (Transform & Multiply Script)
+
+- Reflects how it transforms content and multiplies it across platforms
+- Emphasizes the core functionality clearly
+- Has a technical yet accessible feel
 
 ![Version](https://img.shields.io/badge/Version-0.1.0-blue)
 ![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)
